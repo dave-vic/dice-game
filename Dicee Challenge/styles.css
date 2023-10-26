@@ -39,3 +39,23 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.toss-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.toss-btn{
+  background-color: greenyellow;
+  padding: 20px 10px 20px 10px;
+  border-radius: 5px;
+  font-family: 'Indie Flower', cursive;;
+  font: bolder;
+  font-weight: 500px;
+  font-size: 2rem;
+}
+
+.toss-btn:hover{
+  background-color: green;
+}
